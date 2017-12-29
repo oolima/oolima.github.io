@@ -1,0 +1,326 @@
+
+<!doctype html>
+<html lang="es">
+<head>
+	<link rel="shortcut icon" href="style/icon1.png">
+	<meta charset ="utf-8">
+	<meta name="viewpost" content="width=device-width; maximum-scale=1">
+	<title>O.CARLO</title>
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+	<link rel="stylesheet" href="style/index_style.css">
+
+</head>
+<body>	
+	<header>
+		<nav>
+		  	<ul>
+    			<li id="link-one">
+    		  		<div>
+    		  			<img id="icon" src="style/sobre1.svg">
+    		  		</div>
+      		  		<div>SOBRE</div>
+    			</li>
+    			<li id="link-two">
+      				<div>
+      					<img id="icon" src="style/projetos.svg">
+      				</div>
+      				<div>PROJETOS</div>
+    			</li>
+    				<li id="link-three">
+      				<div>
+      					<img id="icon1" src="style/contato1.svg">
+      				</div>
+      				<div>CONTATO</div>
+    			</li>
+  		  	</ul>
+		</nav>
+		<div class="primeiro">
+			<div>		
+				<img id="logo" src="style/LOGO1.svg">
+			</div>
+			<div>
+				<img id="logonome" src="style/logonome1.svg">
+			</div>
+		</div>
+	</header>
+	<main>
+		<div class="subSection">
+			<section class="home">
+ 				 <h1 class="intro-text">sobre</h1>
+			</section>
+
+
+  			<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+			<script src='https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js'></script>
+   			<script  src="js/index.js"></script>
+
+    		<script type="text/javascript">
+    			$(document).ready(function() {
+				$(".intro-text").lettering('words').children("span").lettering();
+											})
+			</script>
+			<div class="top">
+				<img id="fot2" class="hvr-grow" src= "style/CARLO.jpg">
+				<img id="fot3" class="hvr-grow" src= "style/logo.png">
+				<div class="textos">
+					 		<h2 id="a" >GRAPHIC Designer</h2><h2 id="b" >DIGITAL Designer</h2><h2 id="c" >BRAND Designer</h2><h2 id="d" >WEB Designer</h2><h2 id="e" >& Fotógrafo</h2><p>OCARLO LIMA,<br> estudante técnico, na área de design gráfico / comunicação visual design há 3 anos. Atuando em games e produções gráficas/audiovisuais, com foco na aprendizagem, publicidade e educação. </p>	
+				</div> 
+			</div>
+		</div>
+		<div class="subSection1">
+			<section class="home">
+ 				 <h1 class="intro-text">projetos</h1>
+			</section>
+  			<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+			<script src='https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js'></script>
+   			<script  src="js/index.js"></script>
+    		<script type="text/javascript">
+    			$(document).ready(function() {
+				$(".intro-text").lettering('words').children("span").lettering();
+											})
+    		</script>
+				<div class="top">
+					<div>
+						<img id="fot4" class="hvr-grow" src= "style/3.png">
+				    	<img id="fot5" class="hvr-grow" src= "style/2.png">
+				   		<div class="redes">
+				    		<img id="fot6" class="" src= "style/youb.svg">
+							<img id="fot7" class="" src= "style/faceb.svg">
+						</div>
+					</div>
+				</div>
+
+				<div class="projeto">
+					<div class="subp">
+					<div class="trabalho"><h2 class="titulo"><span class="bold"><span class="nf">NACIONAL FILMES</span><br>HUMAN</span><br>of NAVE</h2></div>
+                    <div class="SEC">
+						<div class="caixa">		
+							<div class="project">
+								<div class="project__card">
+									<a href="" class="project__image"><img src= "style/8.png"></a>
+									<div class="project__detail">
+										<h2 class="project__title"><a href="#">NACIONAL FILMES</a></h2>
+										<small class="project__category"><a href="#">  </a></small>
+									</div>
+								</div>
+							</div> 
+						</div>
+					</div>
+					</div>
+					<img id="fot10" class="hvr-grow" src= "style/loo.png">
+                	<div class="textos1">
+                    	<p><span class="pro">PRROJETO DE MARCA, AUDIOVISUAL E PUBLICITÁRIO,</span><BR>Produção autoral, realizado pela produtora independente NACIONAL FILMES.
+						<br><span class="t">Ideia:</span> A ideia é fazer uma versão com base no projeto HUMAN do  Yann Arthus-Bertrand, voltada para os funcionários da educação da instituição de ensino NAVE. 
+						A web-série tem como base uma única pergunta para todos os entrevistados, sendo assim, através das personas, criamos temas para cada episódio. 
+						<br><span class="t">Exposição do problema:</span> Emoções geradas no dia-a-dia que ficam como lembranças, sejam elas tristes ou felizes.
+						<br><span class="t">Clímax:</span> O momento em que os personagens param para pensar em suas maiores lembranças.
+						<br><span class="t">Resolução do problema:</span> Os personagens percebem que a lembrança é uma coisa boa e é algo que o motive a continuar.
+						<br><span class="t">Argumento:</span><span class="arg">  " A experiência que o NAVE nos traz é única, movida há um milhão de emoções e sensações ao mesmo tempo, onde experimenta-se o novo várias e várias vezes ao longo de um mesmo dia. Como alunos percebemos todas essa mudanças refletindo em nosso amigos e em nós mesmo, eis a grande questão, será que essas mesmas emoções atravessam os professores com a mesma intensidade com que nos atravessam?" - ALUNO DO NAVE. </span></p>
+                	</div>
+                    <img id="fot11" class="hvr-grow" src= "style/10.png">
+                  	<img id="fot12" class="hvr-grow" src= "style/12.gif">
+               		<div class="menu">
+						<a id="link-2" class="effect-underline" href="-">PRÉ-PRODUÇÃO</a>
+						<a id="link-2" class="effect-underline" href="">PRODUÇÃO</a>
+						<a id="link-2" class="effect-underline" href="">PÓS-PRODUÇÃO</a>
+              		</div>
+              		<div class="linha"></div>	
+                </div>
+
+                	<div class="projeto2">
+                		<div class="linha1"></div>	
+                			<img id="fot21" class="hvr-grow" src= "style/02092017-IMG_8399-3.jpg">
+                			<img id="fot22" class="hvr-grow" src= "style/02092017-IMG_8418.jpg">
+                			<div class="sombras1">
+                				<div class="trabalho"><h2 class="titulo"><span class="bold"><span class="nf">TUPHO</span><br>ESTRELAS URBANAS</span><br></h2></div>
+               				</div>
+               				<div class="textos3">
+                    			<p><span class="pro">PROJETO DE FOTOGRAFIA.</span><BR><br>Série fotográfica produzida pela equipe Ocarlo lima e Andressa Marques; TUPHO.
+								<br>"Quantas noites sem dormir olhando da minha janela
+								luzes da cidade, viajo o pensamento madrugada adentro enquanto muitos dormem."- VENTANIA.<BR>Periferias, apesar do descaso social, é um dos lugares mais vivos da cidade, onde muitos artistas nascem e morrem... Mas do que adianta as luzes mais vivas da cidade, os holofotes, se não podemos ter voz?. Série de fotos visando valorizar a beleza das luzes, mas a insignificância dela perante a ausência de alguma coisa ou de alguém para a que faça ter algum valor.</p>
+                			</div>
+                			<img id="fot23" class="hvr-grow" src= "style/02092017-IMG_8416.jpg">
+                       		<div class="linha2"></div>
+                	</div>
+
+                	<div class="projeto3">
+                		<img id="fot24" class="hvr-grow" src= "style/2017-09-02 10.43.48 2.jpg">
+                		<img id="fot27" class="hvr-grow" src= "style/02092017-2017-12-26 04.29.25 1.jpg">
+                		<div class="sombras2">
+                			<div class="trabalho"><h2 class="titulo"><span class="bold"><span class="nf">TUPHO</span><br>YOUTH</span><br></h2></div>
+               			</div>
+               			<div class="textos4">
+                    		<p><span class="pro">PROJETO DE FOTOGRAFIA.</span><BR><br>Série fotográfica produzida pela equipe Ocarlo lima e Andressa Marques; TUPHO.
+							<br>"O que deve caracterizar a juventude é a modéstia, o pudor, o amor, a moderação, a dedicação, a diligência, a justiça, a educação. São estas as virtudes que devem formar o seu caráter."- SÓCRATES. Série de fotos visando valozrizar a rebeldia e o conflito presente na adolescência, representando a transição, por conta das incertezas da vida que os espera e essa passagem da vida infantil para a maturidade.</p>
+                		</div>
+                  		<img id="fot26" class="hvr-grow" src= "style/2017-09-02 10.14.57 1.jpg">
+                		<img id="fot25" class="hvr-grow" src= "style/2017-09-02 11.18.21 1.jpg">
+                	    <div class="linha3"></div>
+					</div>
+
+					<div class="projeto4">
+						<div class="pho">
+							<img id="fot28" class="hvr-grow" src= "style/ODUWKW1.png">
+						</div>
+						<div class="sombras3">
+                			<div class="trabalho"><h2 class="titulo"><span class="bold"><span class="nf">PRODUTORA</span><br>NACIONAL FILMES</span><br></h2></div>
+               			</div>
+               			<div class="textos5">
+                    		<p><span class="pro">PROJETO DE INTERFACE E MARCA.</span><BR><br>Produtora independente. Projeto realizado com o intuito de disseminar os trabalhos culturais do Brasil. Foco em audiovisual, publicidade e fotografia sejam autônomos ou não. Abaixo e ao lado, alguns processos gráficos do estudo e interface do usuário.</p>
+                		</div>
+                		<img id="fot29" class="hvr-grow" src= "style/carta.jpg">
+						<img id="fot30" class="hvr-grow" src= "style/variastelas.png">
+					</div>
+	
+	</main>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript">
+	(function($){
+	
+	$.fn.hover3d = function(options){
+		
+		var settings = $.extend({
+			selector      : null,
+			perspective   : 1000,
+			sensitivity   : 20,
+			invert        : false,
+			shine         : false,
+			hoverInClass  : "hover-in",
+			hoverOutClass : "hover-out",
+			hoverClass    : "hover-3d"
+		}, options);
+		
+		return this.each(function(){
+			
+			var $this = $(this),
+				$card = $this.find(settings.selector);
+				currentX = 0;
+				currentY = 0;
+
+
+			if( settings.shine ){
+				$card.append('<div class="shine"></div>');
+			}
+			var $shine = $(this).find(".shine");
+
+			// Set perspective and transformStyle value
+			// for element and 3d object
+			$this.css({
+				perspective: settings.perspective+"px",
+				transformStyle: "preserve-3d"
+			});
+			
+			$card.css({
+				perspective: settings.perspective+"px",
+				transformStyle: "preserve-3d",
+			});
+
+			$shine.css({
+				position  : "absolute",
+				top       : 0,
+				left      : 0,
+				bottom    : 0,
+				right     : 0,
+				transform : 'translateZ(1px)',
+				"z-index" : 9
+			});
+			
+			// Mouse Enter function, this will add hover-in
+			// Class so when mouse over it will add transition
+			// based on hover-in class
+			function enter(event){
+				$card.addClass(settings.hoverInClass+" "+settings.hoverClass);
+				currentX = currentY = 0;
+				setTimeout(function(){
+					$card.removeClass(settings.hoverInClass);
+				}, 1000);
+			}
+			
+			// Mouse movement Parallax effect
+			function move(event){
+				
+				var w      = $card.innerWidth(),
+					h      = $card.innerHeight(),
+					currentX = Math.round(event.pageX - $card.offset().left),
+					currentY = Math.round(event.pageY - $card.offset().top),
+					ax 	   = settings.invert ?  ( w / 2 - currentX)/settings.sensitivity : -( w / 2 - currentX)/settings.sensitivity,
+					ay     = settings.invert ? -( h / 2 - currentY)/settings.sensitivity :  ( h / 2 - currentY)/settings.sensitivity,
+					dx     = currentX - w / 2,
+					dy     = currentY - h / 2,
+					theta  = Math.atan2(dy, dx),
+					angle  = theta * 180 / Math.PI - 90;
+
+					
+				if (angle < 0) {
+					angle  = angle + 360;
+				}
+				
+
+				$card.css({
+					perspective    : settings.perspective+"px",
+					transformStyle : "preserve-3d",
+					transform      : "rotateY("+ax+"deg) rotateX("+ay+"deg)"
+				});
+
+				$shine.css('background', 'linear-gradient(' + angle + 'deg, rgba(255,255,255,' + event.offsetY / h * .5 + ') 0%,rgba(255,255,255,0) 80%)');
+			}
+			
+			// Mouse leave function, will set the transform
+			// property to 0, and add transition class
+			// for exit animation
+			function leave(){
+				$card.addClass(settings.hoverOutClass+" "+settings.hoverClass);
+				$card.css({
+					perspective    : settings.perspective+"px",
+					transformStyle : "preserve-3d",
+					transform      : "rotateX(0) rotateY(0)"
+				});
+				setTimeout( function(){
+					$card.removeClass(settings.hoverOutClass+" "+settings.hoverClass);
+					currentX = currentY = 0;
+				}, 1000 );
+			}
+			
+			// Mouseenter event binding
+			$this.on( "mouseenter", function(){
+				return enter();
+			});
+			
+			// Mousemove event binding
+			$this.on( "mousemove", function(event){
+				return move(event);
+			});
+			
+			// Mouseleave event binding
+			$this.on( "mouseleave", function(){
+				return leave();
+			});
+			
+		});
+		
+	};
+	
+}(jQuery));
+
+</script>
+</body>
+</html>
